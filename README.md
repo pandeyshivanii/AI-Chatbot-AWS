@@ -120,8 +120,7 @@ Stores:
 
 # 🖼️ Architecture Diagram
 
-![Architecture Diagram](<img width="689" height="349" alt="architecture-chatbot -shivani" src="https://github.com/user-attachments/assets/195f7c90-8aba-4f3d-ac63-245af780d249" />
-)
+![Architecture Diagram](architecture-chatbot.png)
 
 🛠 **Future Improvements:**
 
@@ -134,8 +133,8 @@ Stores:
   
 👩‍💻 **Author:**
 
-Shivani Pandey
-Cloud & Full Stack Developer
+**- Shivani Pandey**
+**- Cloud & Full Stack Developer**
 
 **⭐ If You Like This Project
 Give it a ⭐ on GitHub and feel free to fork it!**

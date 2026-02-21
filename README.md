@@ -53,12 +53,6 @@ The system is designed to be:
 
 👉 **[Watch Demo Video](https://drive.google.com/file/d/1753eX1adItd0djok-4-VdYvEdi9Ur0V2/view?usp=share_link)**
 
----
-
-# 🌐 Live Application
-
-🔗 Live Chatbot URL: http://chatbot-bucket-shivani.s3-website-us-east-1.amazonaws.com
-
 
 ---
 
